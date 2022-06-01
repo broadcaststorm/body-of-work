@@ -1,3 +1,51 @@
 [submodule "broadcaststorm.github.io"]
-	path = broadcaststorm/broadcaststorm.github.io
+	path = websites/broadcaststorm.github.io
 	url = https://github.com/broadcaststorm/broadcaststorm.github.io/
+[submodule "CiscoLive/DEVWKS-2594-CLEUR20"]
+	path = CiscoLive/DEVWKS-2594-CLEUR20
+	url = https://github.com/CiscoSE/DEVWKS-2594-CLEUR20
+[submodule "CiscoLive/DEVWKS-2096-CLUS19"]
+	path = CiscoLive/DEVWKS-2096-CLUS19
+	url = https://github.com/CiscoSE/DEVWKS-2096-CLUS19
+[submodule "CiscoLive/BRKDEV-2004-CL21"]
+	path = CiscoLive/BRKDEV-2004-CL21
+	url = https://github.com/CiscoSE/BRKDEV-2004-CL21
+[submodule "CiscoLive/DevNet-DC-Containers-on-NXOS-CLUS20"]
+	path = DevNetCreate/DevNet-DC-Containers-on-NXOS-CLUS20
+	url = https://github.com/CiscoSE/DevNet-DC-Containers-on-NXOS-CLUS20
+[submodule "CiscoLive/DEVNET-2594-CLUS18"]
+	path = CiscoLive/DEVNET-2594-CLUS18
+	url = https://github.com/CiscoSE/DEVNET-2594-CLUS18
+[submodule "CiscoLive/DEVWKS-2594-CLUS19"]
+	path = CiscoLive/DEVWKS-2594-CLUS19
+	url = https://github.com/CiscoSE/DEVWKS-2594-CLUS19
+[submodule "CiscoLive/BRKCLD-2002-CLUS20"]
+	path = CiscoLive/BRKCLD-2002-CLUS20
+	url = https://github.com/gve-vse-tim/BRKCLD-2002-CLUS20
+[submodule "CiscoLive/TECINI-2543-CLUS18"]
+	path = CiscoLive/TECINI-2543-CLUS18
+	url = https://github.com/CiscoSE/TECINI-2543-CLUS18
+[submodule "CiscoLive/spark-gcp-babelfish"]
+	path = challenges/spark-gcp-babelfish
+	url = https://github.com/gve-vse-tim/spark-gcp-babelfish
+[submodule "challenges/project-brahma"]
+	path = challenges/project-brahma
+	url = https://github.com/CiscoSE/project-brahma
+[submodule "websites/github-pages-build-jekyll"]
+	path = websites/github-pages-build-jekyll
+	url = https://github.com/broadcaststorm/github-pages-build-jekyll
+[submodule "challenges/advent-of-code"]
+	path = challenges/advent-of-code
+	url = https://github.com/broadcaststorm/advent-of-code
+[submodule "projects/maestro"]
+	path = projects/maestro
+	url = https://github.com/broadcaststorm/maestro
+[submodule "projects/maestro-conductor-service"]
+	path = projects/maestro-conductor-service
+	url = https://github.com/broadcaststorm/maestro-conductor-service
+[submodule "projects/maestro-poller-service"]
+	path = projects/maestro-poller-service
+	url = https://github.com/broadcaststorm/maestro-poller-service
+[submodule "projects/maestro-webex-service"]
+	path = projects/maestro-webex-service
+	url = https://github.com/broadcaststorm/maestro-webex-service
