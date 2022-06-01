@@ -1,0 +1,23 @@
+tap "heroku/brew"
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+brew "dos2unix"
+brew "gh"
+brew "git"
+brew "helm", link: false
+brew "python@3.8"
+brew "python@3.9"
+brew "python@3.10"
+brew "socat"
+brew "telnet"
+brew "terraform"
+brew "heroku/brew/heroku"
+cask "ngrok"
+cask "obs", args: { appdir: "/Applications" }
+cask "postman", args: { appdir: "/Applications" }
+cask "rancher"
+cask "vagrant", args: { appdir: "/Applications" }
+cask "virtualbox", args: { appdir: "/Applications" }
+cask "visual-studio-code", args: { appdir: "/Applications" }
+cask "wireshark"
