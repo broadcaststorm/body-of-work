@@ -49,3 +49,6 @@
 [submodule "projects/maestro-webex-service"]
 	path = projects/maestro-webex-service
 	url = https://github.com/broadcaststorm/maestro-webex-service
+[submodule "CiscoLive/DEVLIT-4001-CLEUR20"]
+	path = CiscoLive/DEVLIT-4001-CLEUR20
+	url = https://github.com/CiscoSE/DEVLIT-4001-CLEUR20
