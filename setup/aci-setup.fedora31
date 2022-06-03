@@ -1,0 +1,9 @@
+conda create -n aci-python3 python~=3.8
+conda activate aci-python3
+python setup.py install
+curl -kO https://198.18.133.200/cobra/_downloads/acicobra-4.2_3q-py2.7.egg
+curl -kO https://198.18.133.200/cobra/_downloads/acicobra-4.2_3q-py2.py3-none-any.whl
+curl -kO https://198.18.133.200/cobra/_downloads/acimodel-4.2_3q-py2.7.egg
+curl -kO https://198.18.133.200/cobra/_downloads/acimodel-4.2_3q-py2.py3-none-any.whl
+pip3 install acicobra-4.2_3q-py2.py3-none-any.whl
+pip3 install acimodel-4.2_3q-py2.py3-none-any.whl
