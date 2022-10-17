@@ -52,12 +52,15 @@
 [submodule "CiscoLive/DEVLIT-4001-CLEUR20"]
 	path = CiscoLive/DEVLIT-4001-CLEUR20
 	url = https://github.com/CiscoSE/DEVLIT-4001-CLEUR20
-[submodule "projects/dcnm-lan-sdk"]
-	path = projects/dcnm-lan-sdk
-	url = https://github.com/gve-vse-tim/dcnm-lan-sdk
+[submodule "projects/dcnm-lan-fabric"]
+	path = projects/dcnm-lan-fabric
+	url = https://github.com/gve-vse-tim/dcnm-lan-fabric
 [submodule "CiscoLive/DEVWKS-3155-CL22"]
 	path = CiscoLive/DEVWKS-3155-CL22
 	url = https://github.com/CiscoSE/DEVWKS-3155-CL22
 [submodule "CiscoLive/DEVWKS-2060-CLUS22"]
 	path = CiscoLive/DEVWKS-2060-CLUS22
 	url = https://github.com/CiscoSE/DEVWKS-2060-CLUS22
+[submodule "DevNetCreate/DevNetCreate21-TS47-Journey"]
+	path = DevNetCreate/DevNetCreate21-TS47-Journey
+	url = https://github.com/CiscoSE/DevNetCreate21-TS47-Journey
