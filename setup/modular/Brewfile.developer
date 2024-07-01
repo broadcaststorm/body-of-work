@@ -1,0 +1,10 @@
+brew "dos2unix"
+brew "python@3.9"
+brew "python@3.10"
+brew "python@3.11"
+brew "jq"
+brew "gh"
+brew "git"
+brew "gcc"
+cask "visual-studio-code", args: { appdir: "/Applications" }
+cask "postman", args: { appdir: "/Applications" }

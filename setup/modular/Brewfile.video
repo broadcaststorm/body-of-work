@@ -1,0 +1,4 @@
+cask "logitech-camera-settings"
+cask "obs", args: { appdir: "/Applications" }
+brew "asciinema"
+brew "agg"

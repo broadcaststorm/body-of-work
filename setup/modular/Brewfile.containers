@@ -1,0 +1,4 @@
+brew "buildkit"
+brew "dive"
+brew "helm"
+brew "istioctl"

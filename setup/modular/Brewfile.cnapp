@@ -1,0 +1,4 @@
+tap "anchore/grype"
+tap "anchore/syft"
+brew "anchore/grype/grype"
+brew "anchore/syft/syft"
