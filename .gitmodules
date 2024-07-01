@@ -64,3 +64,6 @@
 [submodule "DevNetCreate/DevNetCreate21-TS47-Journey"]
 	path = DevNetCreate/DevNetCreate21-TS47-Journey
 	url = https://github.com/CiscoSE/DevNetCreate21-TS47-Journey
+[submodule "vagrant-cka-study-lab"]
+	path = Certifications/Kubernetes/vagrant-cka-study-lab
+	url = https://github.com/gve-vse-tim/vagrant-cka-study-lab.git
