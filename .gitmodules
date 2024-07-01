@@ -67,3 +67,12 @@
 [submodule "vagrant-cka-study-lab"]
 	path = Certifications/Kubernetes/vagrant-cka-study-lab
 	url = https://github.com/gve-vse-tim/vagrant-cka-study-lab.git
+[submodule "DEVWKS-2060-CLAMS23"]
+	path = CiscoLive/DEVWKS-2060-CLAMS23
+	url = https://github.com/eti-tme-tim/DEVWKS-2060-CLAMS23.git
+[submodule "DEVWKS-3155-CLAMS23"]
+	path = CiscoLive/DEVWKS-3155-CLAMS23
+	url = https://github.com/eti-tme-tim/DEVWKS-3155-CLAMS23.git
+[submodule "Certifications/ibm-ai-dev-pro"]
+	path = Certifications/ibm-ai-dev-pro
+	url = https://github.com/broadcaststorm/ibm-ai-dev-pro.git
