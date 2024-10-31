@@ -73,3 +73,6 @@
 [submodule "DEVWKS-3155-CLAMS23"]
 	path = CiscoLive/DEVWKS-3155-CLAMS23
 	url = https://github.com/eti-tme-tim/DEVWKS-3155-CLAMS23.git
+[submodule "Certifications/ibm-ai-dev-pro"]
+	path = Certifications/ibm-ai-dev-pro
+	url = https://github.com/broadcaststorm/ibm-ai-dev-pro.git
