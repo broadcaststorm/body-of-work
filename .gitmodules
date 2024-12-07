@@ -85,3 +85,9 @@
 [submodule "Training/nvidia-gtc24"]
 	path = Training/nvidia-gtc24
 	url = https://github.com/broadcaststorm/nvidia-gtc24.git
+[submodule "CiscoLive/BRKETI-1004-CLUS24/k8s-object-examples"]
+	path = CiscoLive/BRKETI-1004-CLUS24/k8s-object-examples
+	url = https://github.com/tpszigeti/k8s-object-examples
+[submodule "CiscoLive/BRKETI-1004-CLUS24/brketi-1004-examples"]
+	path = CiscoLive/BRKETI-1004-CLUS24/brketi-1004-examples
+	url = https://github.com/eti-tme-tim/brketi-1004-examples.git
