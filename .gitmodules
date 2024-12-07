@@ -76,3 +76,9 @@
 [submodule "Certifications/ibm-ai-dev-pro"]
 	path = Certifications/ibm-ai-dev-pro
 	url = https://github.com/broadcaststorm/ibm-ai-dev-pro.git
+[submodule "Certifications/Kubernetes/gcp-cka-study-lab"]
+	path = Certifications/Kubernetes/gcp-cka-study-lab
+	url = https://github.com/eti-tme-tim/gcp-cka-study-lab.git
+[submodule "Certifications/Kubernetes/aws-ckad-study-lab"]
+	path = Certifications/Kubernetes/aws-ckad-study-lab
+	url = https://github.com/broadcaststorm/aws-ckad-study-lab.git
