@@ -54,7 +54,7 @@
 	url = https://github.com/CiscoSE/DEVLIT-4001-CLEUR20
 [submodule "projects/dcnm-lan-fabric"]
 	path = projects/dcnm-lan-fabric
-	url = https://github.com/gve-vse-tim/dcnm-lan-fabric
+	url = https://github.com/gve-vse-tim/dcnm-lan-fabric.git
 [submodule "CiscoLive/DEVWKS-3155-CL22"]
 	path = CiscoLive/DEVWKS-3155-CL22
 	url = https://github.com/CiscoSE/DEVWKS-3155-CL22
