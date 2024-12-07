@@ -82,3 +82,6 @@
 [submodule "Certifications/Kubernetes/aws-ckad-study-lab"]
 	path = Certifications/Kubernetes/aws-ckad-study-lab
 	url = https://github.com/broadcaststorm/aws-ckad-study-lab.git
+[submodule "Training/nvidia-gtc24"]
+	path = Training/nvidia-gtc24
+	url = https://github.com/broadcaststorm/nvidia-gtc24.git
